@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="National_Weather_Soap_Tutorial:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="nationalweathersoaldemo.war">
+      <element id="artifact" artifact-name="National_Weather_Soap_Tutorial:war exploded" />
+    </root>
+  </artifact>
+</component>
